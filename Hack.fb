@@ -1,0 +1,11 @@
+Pkg update && pkg upgrade
+Pkg install git
+Pkg install python2
+Pkg install git python2
+Pip install bs4
+Pip2 install requests
+Pip2 install mechanize
+Pip2 install git bs4
+https://github.com/Bgza636/Bgza636.git
+cd $Home/Git
+Python2 Git.py
